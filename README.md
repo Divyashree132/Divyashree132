@@ -1,8 +1,6 @@
 ## 👋 Hi there! I'm Divyashree N
 
 
-**Divyashree132/Divyashree132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🎓  Electronics and Communication Engineering student from VTU.  
 📍 Based in Bengaluru | Passionate about **Full-Stack Web Development**, **Data Analytics**, and building smart dashboards.  
 📈 Constantly learning and applying Python, SQL, Django, Tableau
