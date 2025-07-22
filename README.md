@@ -7,7 +7,6 @@
 📍 Based in Bengaluru | Passionate about **Full-Stack Web Development**, **Data Analytics**, and building smart dashboards.  
 📈 Constantly learning and applying Python, SQL, Django, Tableau
 
----
 
 ### 🚀 Technical Skills  
 - **Languages:** Python, JavaScript, HTML, CSS  
@@ -16,16 +15,13 @@
 - **Tools:** Tableau, Advanced Excel  
 - **Concepts:** OOPs, Data Analysis, 
 
----
 
----
 
 ### 📜 Certifications
 - ✅ Python Full Stack Development – *Palle Technologies*  
 - ✅ Data Analytics Job Simulation – *Forage*  
 - ✅ Youth Employment Program – *TCS*
 
----
 
 
 
