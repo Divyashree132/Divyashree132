@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Divyashree N
 
-<!--
+
 **Divyashree132/Divyashree132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🎓  Electronics and Communication Engineering student from VTU.  
@@ -35,4 +35,3 @@ Thanks for visiting! 😊 Feel free to explore my repositories or connect with m
 
 
 
--->
